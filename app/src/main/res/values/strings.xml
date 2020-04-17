@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Muthaiga Golf Club</string>
+    <string name="text_header">Welcome to Muthaiga golf club</string>
+    <string name="text_header_receive">Login</string>
+    <string name="button_second">Login</string>
+    <string name="button_main">Signup</string>
+    <string name="changeLang">Change Languages</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0Md1Pz-48TDaJYjTP3vbjo</string>
+    <string name="hint_message" translatable="false">Enter your Name</string>
+    <string name="button_label" translatable="false">Submit</string>
+    <string name="selected_language" translatable="false">English</string>
+
+
+</resources>

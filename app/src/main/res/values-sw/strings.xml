@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muthaiga Golf Club</string>
+    <string name="text_header">Karibu kwenye Muthaiga golf club</string>
+    <string name="text_header_receive">Kuingia</string>
+    <string name="button_second">Kuingia</string>
+    <string name="button_main">Kuingia</string>
+    <string name="changeLang">Badilisha Lugha</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0Md1Pz-48TDaJYjTP3vbjo</string>
+    <string name="hint_message" translatable="false">Ingiza jina lako</string>
+    <string name="button_label" translatable="false">Wasilisha</string>
+    <string name="selected_language" translatable="false">Swahili</string>
+
+</resources>
